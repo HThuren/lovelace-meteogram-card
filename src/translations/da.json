@@ -45,8 +45,8 @@
   "ui.editor.meteogram.attributes.cloud_coverage": "Vis skydække",
   "ui.editor.meteogram.attributes.air_pressure": "Vis lufttryk",
   "ui.editor.meteogram.attributes.precipitation": "Vis nedbør",
-  "ui.editor.meteogram.attributes.weather_icons": "Vis vejr ikoner",
+  "ui.editor.meteogram.attributes.weather_icons": "Vis vejrikoner",
   "ui.editor.meteogram.attributes.wind": "Vis vind",
-  "ui.editor.meteogram.attributes.dense_icons": "Tætte vejr ikoner (hver time)",
+  "ui.editor.meteogram.attributes.dense_icons": "Tætte vejrikoner (hver time)",
   "ui.editor.meteogram.attributes.fill_container": "Udfyld beholderen"
 }
